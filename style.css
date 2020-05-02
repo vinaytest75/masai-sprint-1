@@ -1,0 +1,64 @@
+.classInd {
+    background-image: url('resources/Img1.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    font-family: 'Dosis', sans-serif;
+    color:white;
+    font-size: 20px;
+  }
+  #Ind1{
+    font-size: 25px;
+    margin-left: 55%;
+  }
+  .Ind21{
+      text-align:left;
+        margin-left: 55%;
+  }
+  .Ind22{
+    text-align:left;
+      margin-left: 55%;
+  }
+  .flex-box {
+    display: flex;
+    margin: 10px;
+    text-align: center;
+  }
+  
+  .flex-box div {
+    margin: 50px;
+    padding: 10px;
+  }
+  
+  #box1 {
+    flex-direction: row;
+    color: orange;
+  }
+  
+.IndImg{
+        width: 300px;
+        height: 300px;
+        float: left;
+        border-radius: 100px;
+  }
+
+  .imgA{
+      color: orange;
+  }
+  /*             GENRES   */
+  #gen1 {
+      background-color: #673AB7;
+      float: right;
+      width: 55%;
+  }
+  #hist {
+    background-color: #673AB7;
+    float: right;
+    width: 55%;
+}
+  #plat1{
+    background-color: #673AB7;
+    float: right;
+    width: 55%;
+}
+
